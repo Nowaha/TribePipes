@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TribePipes:jar">
+    <output-path>D:/Users/Noah/Documents/Minecraft Servers/Paper 1.13.2/plugins</output-path>
+    <root id="archive" name="TribePipes.jar">
+      <element id="module-output" name="TribePipes" />
+    </root>
+  </artifact>
+</component>

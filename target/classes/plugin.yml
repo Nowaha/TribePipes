@@ -1,0 +1,6 @@
+name: TribePipes
+version: 1.0
+main: com.noahverkaik.tribepipes.TribePipes
+api-version: 1.13
+authors: [Nowaha]
+website: www.noahverkaik.com
